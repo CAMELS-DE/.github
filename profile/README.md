@@ -3,5 +3,5 @@
 
 🙋‍♀️ This is the CAMELS-DE workspace.
 
-👩‍💻 Useful resources - ...
+👩‍💻 Find CAMELS-DE dataset here: https://zenodo.org/records/12733968
 
